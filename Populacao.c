@@ -29,4 +29,5 @@ int main()
     printf("Years: %i\n", ano); // Imprime o número de anos calculados na tela.
 
     return 0; // Finaliza o programa com código de retorno 0 (indicando sucesso).
+    
 }
